@@ -1,0 +1,27 @@
+{
+  "name": "scss-study",
+  "version": "1.0.0",
+  "description": "(S)CSS Layout Masterclass: Flexbox & Grid",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imyesung/scss-study.git"
+  },
+  "author": "Yesung Lim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/imyesung/scss-study/issues"
+  },
+  "homepage": "https://github.com/imyesung/scss-study#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  },
+  "dependencies": {
+    "babel": "^6.23.0",
+    "node-sass": "^6.0.1",
+    "scss": "^0.2.4"
+  }
+}
